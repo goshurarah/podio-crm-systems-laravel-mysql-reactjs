@@ -1,0 +1,3 @@
+# Podio Crm Systems
+I handled the entire backend development for the Podio CRM System, a comprehensive real estate CRM platform. Built with Laravel and MySQL, I implemented robust backend functionalities to manage lead tracking, customizable workflows, pipeline management, task automation, and payment integration with Stripe. I integrated features like email/SMS communication, calendar sync, analytics, and role-based permissions. Additionally, I developed an affiliate program module and ensured seamless integration with third-party real estate tools. My backend work supports a scalable and efficient system, powering the React-based frontend.
+![podio_crm](https://github.com/user-attachments/assets/437f46ab-5f29-4ed7-95b7-23ac7f610114)
