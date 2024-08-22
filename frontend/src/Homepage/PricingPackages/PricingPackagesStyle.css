@@ -1,0 +1,3520 @@
+.main_div_background_image_pricing {
+  background-image: url("./../../Assets/form_bg_homepage.png");
+
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+  padding-bottom: 5%;
+}
+
+.our_pricing_center {
+  padding-top: 2%;
+}
+
+.hr_line_pricng_orange {
+  width: 41px;
+  height: 2px;
+  flex-shrink: 0;
+  background: #f90;
+  margin-top: 12px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.our_pricing_text {
+  display: flex;
+  width: 99.553px;
+  height: 25px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #f90;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 21.6px; /* 120% */
+  text-transform: capitalize;
+}
+.choose_for_best_text_black {
+  color: #232323;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 43.2px; /* 120% */
+}
+.pricing_plans_orange {
+  color: #f90;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 43.2px;
+  margin-left: 10px;
+  margin-bottom: 5%;
+}
+.standard_price_package_main {
+  width: 350px;
+  height: 669px;
+  flex-shrink: 0;
+  background: #1d4480;
+  box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+}
+
+.standard_heading_main_div {
+  height: 57px;
+  width: 100%;
+  background-color: #ffffff;
+  margin-bottom: 5px;
+}
+.standard_text {
+  color: #1d4480;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26.4px; /* 120% */
+  padding-top: 5%;
+  margin-bottom: 8%;
+  padding-left: 6%;
+}
+.dollar_sign_price {
+  color: #ff9900;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 130% */
+  padding-top: 7%;
+}
+.price_in_dollar_text {
+  color: #ff9900;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px; /* 50.98% */
+  margin-top: 15% !important;
+}
+.per_month {
+  color: #ff9900;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 130% */
+  padding-top: 17%;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.dollar_sign_price_blue {
+  color: #1d4480;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 130% */
+  padding-top: 7%;
+}
+.price_in_dollar_text_blue {
+  color: #1d4480;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px; /* 50.98% */
+  margin-top: 15% !important;
+}
+.per_month_blue {
+  color: #1d4480;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 130% */
+  padding-top: 17%;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.image_style_detail_tick {
+  width: 15.38px;
+  height: 15px;
+
+  margin-left: 5%;
+  margin-right: 4%;
+}
+.para_in_details_pricing {
+  color: #ffffff;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 5px;
+  line-height: 19px; /* 162.5% */
+}
+.main_div_details_packages_standard {
+  height: 575px;
+  padding-top: 5%;
+  width: 98%;
+}
+.select_plan_button_pkg {
+  display: inline-flex;
+  height: 54px;
+  padding: 17px 31.608px 17px 38px;
+  justify-content: flex-end;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 30px;
+  border: 1px solid #f90;
+  background: #fff;
+  color: #f90;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 144.444% */
+  text-transform: capitalize;
+}
+.select_plan_button_pkg:hover {
+  display: inline-flex;
+  height: 54px;
+  padding: 17px 31.608px 17px 38px;
+  justify-content: flex-end;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 30px;
+  border: 1px solid #f90;
+  background: #f90;
+  color: #fff;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 144.444% */
+  text-transform: capitalize;
+}
+
+.economy_main_div {
+  width: 350px;
+  height: 635.39px;
+  flex-shrink: 0;
+  background: #ffffff;
+  box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  margin-top: -7%;
+}
+.economy_heading_main_div {
+  height: 57px;
+  width: 100%;
+  background-color: #ff9900;
+  margin-bottom: 5px;
+}
+.economy_text_pkg {
+  display: flex;
+
+  height: 31px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26.4px; /* 120% */
+  padding-top: 7%;
+  padding-left: 4%;
+}
+
+.dollar_sign_price_eco {
+  color: #fff;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 130% */
+  margin-top: -2%;
+  padding-right: 3px;
+}
+.price_in_dollar_text_eco {
+  color: #fff;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px; /* 50.98% */
+}
+.per_month_eco {
+  color: #fff;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 130% */
+  margin-top: 5px;
+  margin-left: 3px;
+  margin-bottom: 9%;
+}
+.main_div_economy_details {
+  height: 386px;
+  width: 98%;
+  overflow: hidden;
+}
+.basic_information {
+  color: #fff;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 144.444% */
+  padding-top: 5%;
+}
+.economy_detail_text {
+  color: #000000;
+  text-align: start;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px; /* 162.5% */
+  margin-bottom: 10px;
+  padding: 0;
+}
+.standard_plan_button {
+  width: 200px;
+  height: 55px;
+  color: #1d4480;
+  background-color: #ff9900;
+  border-radius: 30px;
+  font-family: "Rubik", sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26px;
+  border-color: none;
+  border-style: none;
+  margin-top: 10%;
+}
+.plussign_style {
+  margin-top: -3%;
+  margin-bottom: 5%;
+}
+.premium_main_div {
+  width: 350px;
+  height: 669px;
+  flex-shrink: 0;
+  background: #1d4480;
+  box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+}
+.premium_text_pkg {
+  display: flex;
+  width: 104.301px;
+  height: 31px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #232323;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26.4px; /* 120% */
+  padding-top: 25%;
+  padding-bottom: 10%;
+}
+
+.dollar_sign_price_premium {
+  color: #616161;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 130% */
+  margin-top: -2%;
+  padding-right: 3px;
+}
+.price_in_dollar_text_premium {
+  color: #232323;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 51px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px; /* 50.98% */
+}
+.per_month_premium {
+  color: #616161;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 130% */
+  margin-top: 5px;
+  margin-left: 3px;
+  margin-bottom: 9%;
+}
+.main_div_premium_details {
+  height: 440px;
+}
+.basic_information_premium {
+  color: #686868;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 144.444% */
+  padding-top: 5%;
+}
+.premium_detail_text {
+  color: #686868;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+}
+
+.main_div_para_craeteplan {
+  width: 90%;
+  padding-top: 25%;
+}
+.para_in_createplan_pkg {
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ff9900;
+}
+
+@media only screen and (max-width: 1200px) {
+  .main_div_background_image_pricing {
+    background-image: url("./../../Assets/form_bg_homepage.png");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-bottom: 5%;
+  }
+
+  .our_pricing_center {
+    padding-top: 2%;
+  }
+
+  .hr_line_pricng_orange {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-top: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .our_pricing_text {
+    display: flex;
+    width: 99.553px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+  }
+  .choose_for_best_text_black {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .pricing_plans_orange {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 10px;
+    margin-bottom: 5%;
+  }
+  .standard_price_package_main {
+    width: 300px;
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .standard_text {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 5%;
+    margin-bottom: 8%;
+  }
+  .dollar_sign_price {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+  }
+  .price_in_dollar_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month {
+    color: #ff9900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 9%;
+    margin-left: 3px;
+  }
+
+  .dollar_sign_price_blue {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 7%;
+  }
+  .price_in_dollar_text_blue {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+    margin-top: 15% !important;
+  }
+  .per_month_blue {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 17%;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+
+  .image_style_detail_tick {
+    width: 15.38px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 4%;
+  }
+  .para_in_details_pricing {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 15.38px; /* 162.5% */
+  }
+  .main_div_details_packages_standard {
+    height: 577px;
+  }
+  .select_plan_button_pkg {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #fff;
+    color: #f90;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+  .select_plan_button_pkg:hover {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #f90;
+    color: #fff;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+
+  .economy_main_div {
+    width: 300px;
+    height: 635.39px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: -7%;
+  }
+  .economy_text_pkg {
+    display: flex;
+
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 8%;
+  }
+
+  .dollar_sign_price_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_economy_details {
+    height: 385px !important;
+  }
+  .basic_information {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .economy_detail_text {
+    color: #000000;
+    text-align: start;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 162.5% */
+  }
+
+  .premium_main_div {
+    width: 300px;
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .premium_text_pkg {
+    display: flex;
+    width: 104.301px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 25%;
+    padding-bottom: 10%;
+  }
+
+  .dollar_sign_price_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_premium {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_premium_details {
+    height: 460px;
+  }
+  .basic_information_premium {
+    color: #686868;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .premium_detail_text {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .main_div_background_image_pricing {
+    background-image: url("./../../Assets/form_bg_homepage.png");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-bottom: 10%;
+  }
+
+  .our_pricing_center {
+    padding-top: 2%;
+  }
+
+  .hr_line_pricng_orange {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-top: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .our_pricing_text {
+    display: flex;
+    width: 99.553px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+  }
+  .choose_for_best_text_black {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .pricing_plans_orange {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 10px;
+    margin-bottom: 5%;
+  }
+  .standard_price_package_main {
+    width: 60%;
+
+    height: 669px;
+    flex-shrink: 0;
+
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .standard_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 4%;
+    margin-bottom: 8%;
+  }
+  .dollar_sign_price {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+  }
+  .price_in_dollar_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month {
+    color: #ff9900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 9%;
+    margin-left: 3px;
+  }
+
+  .dollar_sign_price_blue {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 7%;
+  }
+  .price_in_dollar_text_blue {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+    margin-top: 15% !important;
+  }
+  .per_month_blue {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 17%;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+  .image_style_detail_tick {
+    width: 15.38px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 4%;
+  }
+  .para_in_details_pricing {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 19px; /* 162.5% */
+  }
+  .main_div_details_packages_standard {
+    height: 575px !important;
+  }
+  .select_plan_button_pkg {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #fff;
+    color: #f90;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+  .select_plan_button_pkg:hover {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #f90;
+    color: #fff;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+
+  .economy_main_div {
+    width: 60%;
+
+    height: 635.39px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .economy_text_pkg {
+    display: flex;
+
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 7%;
+  }
+
+  .dollar_sign_price_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_economy_details {
+    height: 380px !important;
+  }
+  .basic_information {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .economy_detail_text {
+    color: #000000;
+    text-align: start;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 162.5% */
+  }
+
+  .premium_main_div {
+    width: 60%;
+
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .premium_text_pkg {
+    display: flex;
+    width: 104.301px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 25%;
+    padding-bottom: 10%;
+  }
+
+  .dollar_sign_price_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_premium {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_premium_details {
+    height: 410px;
+  }
+  .basic_information_premium {
+    color: #686868;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .premium_detail_text {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .main_div_background_image_pricing {
+    background-image: url("./../../Assets/form_bg_homepage.png");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-bottom: 10%;
+  }
+
+  .our_pricing_center {
+    padding-top: 2%;
+  }
+
+  .hr_line_pricng_orange {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-top: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .our_pricing_text {
+    display: flex;
+    width: 99.553px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+  }
+  .choose_for_best_text_black {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .pricing_plans_orange {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 10px;
+    margin-bottom: 5%;
+  }
+  .standard_price_package_main {
+    width: 80%;
+
+    height: 669px;
+    flex-shrink: 0;
+
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .standard_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 4%;
+    margin-bottom: 8%;
+  }
+  .dollar_sign_price {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+  }
+  .price_in_dollar_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month {
+    color: #ff9900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 9%;
+    margin-left: 3px;
+  }
+
+  .dollar_sign_price_blue {
+    color: #1d4480 !important;
+    text-align: center;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 20px !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    line-height: 26px !important; /* 130% */
+    padding-top: 7% !important;
+  }
+  .price_in_dollar_text_blue {
+    color: #1d4480 !important;
+    text-align: center !important;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 46px !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    line-height: 26px !important; /* 50.98% */
+    margin-top: 15% !important;
+  }
+  .per_month_blue {
+    color: #1d4480 !important;
+    text-align: center !important;
+    font-family: "Poppins", sans-serif !important;
+    font-size: 20px !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    line-height: 26px !important; /* 130% */
+    padding-top: 17% !important;
+    margin-left: 3px !important;
+    margin-right: 3px !important;
+  }
+
+  .image_style_detail_tick {
+    width: 15.38px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 4%;
+  }
+  .para_in_details_pricing {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 19px; /* 162.5% */
+  }
+  .main_div_details_packages_standard {
+    height: 775px;
+  }
+  .select_plan_button_pkg {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #fff;
+    color: #f90;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+  .select_plan_button_pkg:hover {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #f90;
+    color: #fff;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+
+  .economy_main_div {
+    width: 80%;
+
+    height: 635.39px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .economy_text_pkg {
+    display: flex;
+
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 7%;
+  }
+
+  .dollar_sign_price_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_economy_details {
+    height: 375px;
+  }
+  .basic_information {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .economy_detail_text {
+    color: #000000;
+    text-align: start;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 162.5% */
+  }
+
+  .premium_main_div {
+    width: 80%;
+
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .premium_text_pkg {
+    display: flex;
+    width: 104.301px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 25%;
+    padding-bottom: 10%;
+  }
+
+  .dollar_sign_price_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_premium {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_premium_details {
+    height: 410px;
+  }
+  .basic_information_premium {
+    color: #686868;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .premium_detail_text {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+}
+
+@media only screen and (max-width: 525px) {
+  .main_div_background_image_pricing {
+    background-image: url("./../../Assets/form_bg_homepage.png");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-bottom: 10%;
+  }
+
+  .our_pricing_center {
+    padding-top: 2%;
+  }
+
+  .hr_line_pricng_orange {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-top: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .our_pricing_text {
+    display: flex;
+    width: 99.553px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+  }
+  .choose_for_best_text_black {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .pricing_plans_orange {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 10px;
+    margin-bottom: 5%;
+  }
+  .standard_price_package_main {
+    width: 80%;
+
+    height: 669px;
+    flex-shrink: 0;
+
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .standard_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 4%;
+    margin-bottom: 8%;
+  }
+  .dollar_sign_price {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+  }
+  .price_in_dollar_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month {
+    color: #ff9900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 9%;
+    margin-left: 3px;
+  }
+
+  .dollar_sign_price_blue {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 7%;
+  }
+  .price_in_dollar_text_blue {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+    margin-top: 15% !important;
+  }
+  .per_month_blue {
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 17%;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+
+  .image_style_detail_tick {
+    width: 15.38px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 4%;
+  }
+  .para_in_details_pricing {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 19px; /* 162.5% */
+  }
+  .main_div_details_packages_standard {
+    height: 490px;
+  }
+  .select_plan_button_pkg {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #fff;
+    color: #f90;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+  .select_plan_button_pkg:hover {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #f90;
+    color: #fff;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+
+  .economy_main_div {
+    width: 80%;
+
+    height: 635.39px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .economy_text_pkg {
+    display: flex;
+
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 7%;
+  }
+
+  .dollar_sign_price_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_economy_details {
+    height: 390px;
+  }
+  .basic_information {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .economy_detail_text {
+    color: #000000;
+    text-align: start;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 162.5% */
+  }
+
+  .premium_main_div {
+    width: 80%;
+
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .premium_text_pkg {
+    display: flex;
+    width: 104.301px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 25%;
+    padding-bottom: 10%;
+  }
+
+  .dollar_sign_price_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_premium {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_premium_details {
+    height: 424px;
+  }
+  .basic_information_premium {
+    color: #686868;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .premium_detail_text {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+}
+
+@media only screen and (max-width: 490px) {
+  .main_div_background_image_pricing {
+    background-image: url("./../../Assets/form_bg_homepage.png");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-bottom: 10%;
+  }
+
+  .our_pricing_center {
+    padding-top: 2%;
+  }
+
+  .hr_line_pricng_orange {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-top: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .our_pricing_text {
+    display: flex;
+    width: 99.553px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+  }
+  .choose_for_best_text_black {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .standard_price_package_main {
+    width: 80%;
+
+    height: 669px;
+    flex-shrink: 0;
+
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .standard_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 4%;
+    margin-bottom: 8%;
+  }
+  .dollar_sign_price {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+  }
+  .price_in_dollar_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month {
+    color: #ff9900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 9%;
+    margin-left: 3px;
+  }
+  .image_style_detail_tick {
+    width: 15.38px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 4%;
+  }
+  .para_in_details_pricing {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 19px; /* 162.5% */
+  }
+  .main_div_details_packages_standard {
+    height: 500px;
+  }
+  .select_plan_button_pkg {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #fff;
+    color: #f90;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+  .select_plan_button_pkg:hover {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #f90;
+    color: #fff;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+
+  .economy_main_div {
+    width: 80%;
+
+    height: 635.39px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .economy_text_pkg {
+    display: flex;
+
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 7%;
+  }
+
+  .dollar_sign_price_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_economy_details {
+    height: 400px;
+  }
+  .basic_information {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .economy_detail_text {
+    color: #000000;
+    text-align: start;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 162.5% */
+  }
+
+  .premium_main_div {
+    width: 80%;
+
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .premium_text_pkg {
+    display: flex;
+    width: 104.301px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 25%;
+    padding-bottom: 10%;
+  }
+
+  .dollar_sign_price_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_premium {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_premium_details {
+    height: 434px;
+  }
+  .basic_information_premium {
+    color: #686868;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .premium_detail_text {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+}
+
+@media only screen and (max-width: 440px) {
+  .main_div_background_image_pricing {
+    background-image: url("./../../Assets/form_bg_homepage.png");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-bottom: 10%;
+  }
+
+  .our_pricing_center {
+    padding-top: 2%;
+  }
+
+  .hr_line_pricng_orange {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-top: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .our_pricing_text {
+    display: flex;
+    width: 99.553px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+  }
+  .choose_for_best_text_black {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .pricing_plans_orange {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 10px;
+    margin-bottom: 5%;
+  }
+  .standard_price_package_main {
+    width: 90%;
+
+    height: 669px;
+    flex-shrink: 0;
+
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .standard_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 4%;
+    margin-bottom: 8%;
+  }
+  .dollar_sign_price {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+  }
+  .price_in_dollar_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month {
+    color: #ff9900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 9%;
+    margin-left: 3px;
+  }
+  .image_style_detail_tick {
+    width: 15.38px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 4%;
+  }
+  .para_in_details_pricing {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 18px; /* 162.5% */
+  }
+  .main_div_details_packages_standard {
+    height: 500px;
+  }
+  .select_plan_button_pkg {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #fff;
+    color: #f90;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+  .select_plan_button_pkg:hover {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #f90;
+    color: #fff;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+
+  .economy_main_div {
+    width: 90%;
+
+    height: 635.39px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .economy_text_pkg {
+    display: flex;
+
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 7%;
+  }
+
+  .dollar_sign_price_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_economy_details {
+    height: 400px;
+  }
+  .basic_information {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .economy_detail_text {
+    color: #000000;
+    text-align: start;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 162.5% */
+  }
+
+  .premium_main_div {
+    width: 90%;
+
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+  }
+  .premium_text_pkg {
+    display: flex;
+    width: 104.301px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 25%;
+    padding-bottom: 10%;
+  }
+
+  .dollar_sign_price_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_premium {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_premium_details {
+    height: 434px;
+  }
+  .basic_information_premium {
+    color: #686868;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .premium_detail_text {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .main_div_background_image_pricing {
+    background-image: url("./../../Assets/form_bg_homepage.png");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-bottom: 20%;
+  }
+
+  .our_pricing_center {
+    padding-top: 2%;
+  }
+
+  .hr_line_pricng_orange {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-top: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .our_pricing_text {
+    display: flex;
+    width: 99.553px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+  }
+  .choose_for_best_text_black {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .pricing_plans_orange {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 10px;
+    margin-bottom: 5%;
+  }
+  .standard_price_package_main {
+    width: 90%;
+
+    height: 689px;
+    flex-shrink: 0;
+
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .standard_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 4%;
+    margin-bottom: 8%;
+  }
+  .dollar_sign_price {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+  }
+  .price_in_dollar_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month {
+    color: #ff9900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 9%;
+    margin-left: 3px;
+  }
+  .image_style_detail_tick {
+    width: 15.38px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 4%;
+  }
+  .para_in_details_pricing {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 18px; /* 162.5% */
+  }
+  .main_div_details_packages_standard {
+    height: 590px !important;
+  }
+  .select_plan_button_pkg {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #fff;
+    color: #f90;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+  .select_plan_button_pkg:hover {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #f90;
+    color: #fff;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+
+  .economy_main_div {
+    width: 90%;
+
+    height: 635.39px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 15%;
+  }
+  .economy_text_pkg {
+    display: flex;
+
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 7%;
+  }
+
+  .dollar_sign_price_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_economy_details {
+    height: 410px;
+  }
+  .basic_information {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .economy_detail_text {
+    color: #000000;
+    text-align: start;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 162.5% */
+  }
+
+  .premium_main_div {
+    width: 90%;
+
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 15%;
+  }
+  .premium_text_pkg {
+    display: flex;
+    width: 104.301px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 25%;
+    padding-bottom: 10%;
+  }
+
+  .dollar_sign_price_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_premium {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_premium_details {
+    height: 444px;
+  }
+  .basic_information_premium {
+    color: #686868;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .premium_detail_text {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .main_div_background_image_pricing {
+    background-image: url("./../../Assets/form_bg_homepage.png");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-bottom: 20%;
+  }
+
+  .our_pricing_center {
+    padding-top: 2%;
+  }
+
+  .hr_line_pricng_orange {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-top: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .our_pricing_text {
+    display: flex;
+    width: 99.553px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+  }
+  .choose_for_best_text_black {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .pricing_plans_orange {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 10px;
+    margin-bottom: 5%;
+  }
+  .standard_price_package_main {
+    width: 90%;
+
+    height: 689px;
+    flex-shrink: 0;
+
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .standard_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 4%;
+    margin-bottom: 8%;
+  }
+  .dollar_sign_price {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+  }
+  .price_in_dollar_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month {
+    color: #ff9900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 15%;
+    margin-left: 3px;
+  }
+  .image_style_detail_tick {
+    width: 15.38px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 4%;
+  }
+  .para_in_details_pricing {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 15.38px; /* 162.5% */
+  }
+  .main_div_details_packages_standard {
+    height: 520px;
+  }
+  .select_plan_button_pkg {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #fff;
+    color: #f90;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+  .select_plan_button_pkg:hover {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #f90;
+    color: #fff;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+
+  .economy_main_div {
+    width: 90%;
+
+    height: 635.39px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 15%;
+  }
+  .economy_text_pkg {
+    display: flex;
+
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 7%;
+  }
+
+  .dollar_sign_price_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_economy_details {
+    height: 422px;
+  }
+  .basic_information {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .economy_detail_text {
+    color: #000000;
+    text-align: start;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 162.5% */
+  }
+
+  .premium_main_div {
+    width: 90%;
+
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 15%;
+  }
+  .premium_text_pkg {
+    display: flex;
+    width: 104.301px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 25%;
+    padding-bottom: 10%;
+  }
+
+  .dollar_sign_price_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_premium {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_premium_details {
+    height: 454px;
+  }
+  .basic_information_premium {
+    color: #686868;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .premium_detail_text {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .main_div_background_image_pricing {
+    background-image: url("./../../Assets/form_bg_homepage.png");
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-bottom: 20%;
+  }
+
+  .our_pricing_center {
+    padding-top: 2%;
+  }
+
+  .hr_line_pricng_orange {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-top: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .our_pricing_text {
+    display: flex;
+    width: 99.553px;
+    height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+  }
+  .choose_for_best_text_black {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .pricing_plans_orange {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 10px;
+    margin-bottom: 5%;
+  }
+  .standard_price_package_main {
+    width: 90%;
+    height: 699px;
+    flex-shrink: 0;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .standard_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 5%;
+    margin-bottom: 8%;
+  }
+  .dollar_sign_price {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+  }
+  .price_in_dollar_text {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month {
+    color: #ff9900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    padding-top: 15%;
+    margin-left: 3px;
+  }
+  .image_style_detail_tick {
+    width: 15.38px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 4%;
+  }
+  .para_in_details_pricing {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    line-height: 15.38px; /* 162.5% */
+  }
+  .main_div_details_packages_standard {
+    height: 585px !important;
+  }
+  .select_plan_button_pkg {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #fff;
+    color: #f90;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+  .select_plan_button_pkg:hover {
+    display: inline-flex;
+    height: 54px;
+    padding: 17px 31.608px 17px 38px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #f90;
+    background: #f90;
+    color: #fff;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    text-transform: capitalize;
+  }
+
+  .economy_main_div {
+    width: 90%;
+
+    height: 635.39px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 15%;
+  }
+  .economy_text_pkg {
+    display: flex;
+
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d4480;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 7%;
+  }
+
+  .dollar_sign_price_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_eco {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_economy_details {
+    height: 385px !important;
+  }
+  .basic_information {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .economy_detail_text {
+    color: #000000;
+    text-align: start;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 162.5% */
+  }
+
+  .premium_main_div {
+    width: 90%;
+
+    height: 669px;
+    flex-shrink: 0;
+    background: #1d4480;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 15%;
+  }
+  .premium_text_pkg {
+    display: flex;
+    width: 104.301px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.4px; /* 120% */
+    padding-top: 25%;
+    padding-bottom: 10%;
+  }
+
+  .dollar_sign_price_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: -2%;
+    padding-right: 3px;
+  }
+  .price_in_dollar_text_premium {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 50.98% */
+  }
+  .per_month_premium {
+    color: #616161;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 130% */
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-bottom: 9%;
+  }
+  .main_div_premium_details {
+    height: 468px;
+  }
+  .basic_information_premium {
+    color: #686868;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+    padding-top: 5%;
+  }
+  .premium_detail_text {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+}
+
+.successfull_payment_text {
+  color: #4d883a;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  margin-top: 15%;
+}
+.got_to_hoempage {
+  color: #8d8e8e;
+  font-family: "Poppins", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  margin-top: 3%;
+  text-decoration: underline;
+}
+
+.cancel_payment_text {
+  color: red;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  margin-top: 15%;
+}
+.cancelpaymenticon {
+  width: 50px;
+  height: 50px;
+}

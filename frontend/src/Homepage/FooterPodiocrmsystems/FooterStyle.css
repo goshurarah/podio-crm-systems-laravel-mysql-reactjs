@@ -1,0 +1,544 @@
+.main_div_footer_podio_crm_systems{
+    background-image: url("./../../Assets/bg_footerend.png");
+        
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 587.8px;
+   
+}
+
+.main_div_free_business_consultant{
+  width: 100%;
+height: 170px;
+flex-shrink: 0;
+    border-radius: 3px;
+background: #F90;
+
+margin-top: -10%;
+transform: translateY(-50%);
+}
+
+.small_dots_style{
+    margin-top: 60%;
+}
+.call_icon_style{
+    margin-top: 9%;
+    margin-left: 25%;
+}
+
+.big_dots_style{
+    
+
+}
+
+.get_your_free_para{
+    color: #FFF;
+    font-family: "Poppins", sans-serif;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: 46px; /* 131.429% */
+margin-top: 4%;
+}
+
+.para_phone_number_footer{
+    color: #FFF;
+    font-family: "Poppins", sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+line-height: 38.4px; /* 120% */
+margin-top: 13%;
+}
+.email_footer_para{
+    color: #FFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 130% */  
+}
+
+@media only screen and (max-width: 1400px) {
+   
+    
+    .main_div_free_business_consultant{
+      width: 100%;
+    height: 170px;
+    flex-shrink: 0;
+        border-radius: 3px;
+    background: #F90;
+    
+    margin-top: -10%;
+    transform: translateY(-50%);
+    }
+    
+    .small_dots_style{
+        margin-top: 60%;
+    }
+    .call_icon_style{
+        margin-top: 9%;
+        margin-left: 25%;
+    }
+    
+    .big_dots_style{
+        
+    
+    }
+    
+    .get_your_free_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px; /* 131.429% */
+    margin-top: 4%;
+    }
+    
+    .para_phone_number_footer{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38.4px; /* 120% */
+    margin-top: 13%;
+    }
+    .email_footer_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px; /* 130% */  
+    }
+    
+}
+
+@media only screen and (max-width: 991px) {
+ 
+    
+    .main_div_free_business_consultant{
+      width: 100%;
+    height: 170px;
+    flex-shrink: 0;
+        border-radius: 3px;
+    background: #F90;
+    
+    margin-top: -10%;
+    transform: translateY(-50%);
+    }
+    
+    .small_dots_style{
+        margin-top: 60%;
+    }
+    .call_icon_style{
+        margin-top: 20%;
+        margin-left: 25%;
+        width: 70px;
+        height: 70px;
+    }
+    
+    .big_dots_style{
+        width: 100px;
+        height: 100px;
+    
+    }
+    
+    .get_your_free_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px; /* 131.429% */
+    margin-top: 4%;
+    }
+    
+    .para_phone_number_footer{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38.4px; /* 120% */
+    margin-top: 13%;
+    }
+    .email_footer_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px; /* 130% */  
+    }
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .main_div_footer_podio_crm_systems{
+        background-image: none;
+            
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: auto;
+        padding-bottom: 20%;
+     
+    }
+    
+    .main_div_free_business_consultant{
+      width: 100%;
+    height: auto;
+    flex-shrink: 0;
+        border-radius: 3px;
+    background: #F90;
+    
+    margin-top: 0%;
+    transform: translateY(-50%);
+    padding-bottom: 5%;
+    }
+    
+    .small_dots_style{
+        margin-top: 10%;
+    }
+    .call_icon_style{
+        margin-top: 10%;
+        margin-left: 25%;
+        width: 70px;
+        height: 70px;
+    }
+    
+    .big_dots_style{
+        width: 100px;
+        height: 100px;
+    
+    }
+    
+    .get_your_free_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px; /* 131.429% */
+    margin-top: 14%;
+    }
+    
+    .para_phone_number_footer{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38.4px; /* 120% */
+    margin-top: 8%;
+    }
+    .email_footer_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px; /* 130% */  
+    }
+    
+}
+
+
+
+
+@media only screen and (max-width: 668px) {
+    .main_div_footer_podio_crm_systems{
+        background-image: none;
+            
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: auto;
+        padding-bottom: 20%;
+     
+    }
+    
+    .main_div_free_business_consultant{
+      width: 100%;
+    height: auto;
+    flex-shrink: 0;
+        border-radius: 3px;
+    background: #F90;
+    
+    margin-top: 0%;
+    transform: translateY(-50%);
+    padding-bottom: 1%;
+    }
+    
+    .small_dots_style{
+        margin-top: 10%;
+    }
+    .call_icon_style{
+        margin-top: 10%;
+        margin-left: 25%;
+        width: 70px;
+        height: 70px;
+    }
+    
+    .big_dots_style{
+        width: 100px;
+        height: 100px;
+    
+    }
+    
+    .get_your_free_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px; /* 131.429% */
+    margin-top: 14%;
+    }
+    
+    .para_phone_number_footer{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38.4px; /* 120% */
+    margin-top: 8%;
+    }
+    .email_footer_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px; /* 130% */  
+    }
+    
+}
+@media only screen and (max-width: 350px) {
+    .main_div_footer_podio_crm_systems{
+        background-image: none;
+            
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: auto;
+        padding-bottom: 20%;
+     
+    }
+    
+    .main_div_free_business_consultant{
+      width: 100%;
+    height: auto;
+    flex-shrink: 0;
+        border-radius: 3px;
+    background: #F90;
+    
+    margin-top: 0%;
+    transform: translateY(-50%);
+    padding-bottom: 1%;
+    }
+    
+    .small_dots_style{
+        margin-top: 10%;
+    }
+    .call_icon_style{
+        margin-top: 10%;
+        margin-left: 25%;
+        width: 70px;
+        height: 70px;
+    }
+    
+    .big_dots_style{
+        width: 100px;
+        height: 100px;
+    
+    }
+    
+    .get_your_free_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px; /* 131.429% */
+    margin-top: 14%;
+    }
+    
+    .para_phone_number_footer{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38.4px; /* 120% */
+    margin-top: 8%;
+    }
+    .email_footer_para{
+        color: #FFF;
+        font-family: "Poppins", sans-serif;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px; /* 130% */  
+    }
+    
+}
+
+
+
+
+.about_us_heading_footer{
+    color: #FFF;
+    font-family: "Poppins", sans-serif ;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28.8px; /* 120% */
+}
+.orange_line_belowaboutus{
+    background: #F90;
+    width: 50px;
+height: 2px;
+flex-shrink: 0;
+}
+.para_below_about_us_footer{
+    color: #FFF;
+font-family: "Rubik", sans-serif ;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+opacity: 0.6;
+margin-top: 13%;
+}
+.icon_setting_footer{
+    margin-top: 7%;
+    cursor: pointer;
+}
+.icons_setting_footer{
+    margin-top: 7%;
+    margin-left: 5%;
+    cursor: pointer;
+}
+.link_company_footer{
+    color: #FFF;
+font-family: "Poppins", sans-serif ;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+margin-top: 25%;
+cursor: pointer;
+}
+.links_company_footer{
+    color: #FFF;
+font-family: "Poppins", sans-serif ;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+cursor: pointer;
+}
+
+.input_style_add_email_footer{
+    border-radius: 5px;
+    background: #373644;
+    display: inline-flex;
+    padding-left: 10px;
+    padding-right: 10px;
+height: 64px;
+width: 100%;
+outline: none;
+margin-top: 10%;
+color: #6C757D;
+font-family: "Rubik", sans-serif ;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+outline: none;
+border: none;
+}
+
+.btn_style_add_email_footer{
+    display: flex;
+width: 64px;
+padding: 15px 20px 17px 20px;
+justify-content: center;
+align-items: center;
+    border-radius: 0px 5px 5px 0px;
+    background: #F90;
+    outline: none;
+    margin-top: 10%;
+}
+
+
+@media only screen and (max-width: 991px){
+
+    .main_div_footer_podio_crm_systems{
+        background-image: none;
+            background-color: black;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: auto;
+        padding-bottom: 20%;
+     
+    }
+.about_us_heading_footer{
+    margin-top: 20%;
+}
+}
+
+a {
+    color: none !important;
+    text-decoration: none !important;
+}
+
+
+@media only screen and (max-width: 600px){
+    .links_company_footer{
+        color: #FFF;
+    font-family: "Poppins", sans-serif ;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    cursor: pointer;
+    }
+    .link_company_footer{
+        color: #FFF;
+    font-family: "Poppins", sans-serif ;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 5%;
+    cursor: pointer;
+    }
+    .about_us_heading_footer{
+        margin-top: 7%;
+        color: #FFF;
+        font-family: "Poppins", sans-serif ;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 28.8px; /* 120% */
+    }
+
+    .para_below_about_us_footer{
+        color: #FFF;
+    font-family: "Rubik", sans-serif ;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    opacity: 0.6;
+    margin-top: 7%;
+    }
+}

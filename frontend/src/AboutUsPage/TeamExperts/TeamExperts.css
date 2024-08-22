@@ -1,0 +1,360 @@
+.main_div_team_experts {
+  width: 100%;
+  background: #1d4480;
+  height: auto;
+  padding-top: 3%;
+  padding-bottom: 10%;
+}
+.text_align_center_div_team_exp {
+  text-align: center;
+}
+.orange_line_team_exp {
+  width: 41px;
+  height: 2px;
+  flex-shrink: 0;
+  background: #f90;
+  margin-right: 10px;
+  margin-top: 8px;
+}
+.para_team_exp_orange_line {
+  color: #f90;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 21.6px; /* 120% */
+  text-transform: capitalize;
+  margin-right: 10px;
+}
+.lets_meet_with_white_para {
+  color: #fff;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 43.2px; /* 120% */
+}
+.experts_orange_para {
+  color: #f90;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 43.2px;
+  margin-left: 10px;
+}
+.main_div_first_expert {
+  width: 85%;
+  margin-left: 8%;
+  height: 378.38px;
+  background-image: url("./../../Assets/abdulhaye.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.main_div_second_expert {
+  width: 85%;
+  margin-left: 8%;
+  height: 378.38px;
+  background-image: url("./../../Assets/abdulsami.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.main_div_third_expert {
+  width: 85%;
+  margin-left: 8%;
+  height: 378.38px;
+  background-image: url("./../../Assets/bilal.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.icons_bg_style {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.19) 0%, #00255f 100%);
+  width: 100%;
+  height: 99px;
+  flex-shrink: 0;
+}
+.username_para_experts {
+  color: #fff;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 4px; /* 120% */
+  margin-top: 22px;
+}
+.designation_para_experts {
+  color: #fff;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 10px; /* 120% */
+}
+.icon_style_icons_team_exp {
+  margin-left: 5px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.orange_div_below_icons {
+  width: 70%;
+  margin-top: 2%;
+  margin-left: 15%;
+  height: 20.36px;
+  flex-shrink: 0;
+  border-radius: 0px 0px 3px 3px;
+  background: #f90;
+}
+@media only screen and (max-width: 1400px) {
+
+  .main_div_first_expert {
+    width: 90%;
+    margin-left: 5%;
+    height: 378.38px;
+    background-image: url("./../../Assets/abdulhaye.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .main_div_second_expert {
+    width: 90%;
+    margin-left: 5%;
+    height: 378.38px;
+    background-image: url("./../../Assets/abdulsami.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .main_div_third_expert {
+    width: 90%;
+    margin-left: 5%;
+    height: 378.38px;
+    background-image: url("./../../Assets/bilal.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+}
+
+
+@media only screen and (max-width: 1200px) {
+
+  .main_div_first_expert {
+    width: 100%;
+    margin-left: 0%;
+    height: 378.38px;
+    background-image: url("./../../Assets/abdulhaye.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .main_div_second_expert {
+    width: 100%;
+    margin-left: 0%;
+    height: 378.38px;
+    background-image: url("./../../Assets/abdulsami.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .main_div_third_expert {
+    width: 100%;
+    margin-left: 0%;
+    height: 378.38px;
+    background-image: url("./../../Assets/bilal.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+  .main_div_first_expert {
+    width: 80%;
+    margin-left: 10%;
+    height: 378.38px;
+    background-image: url("./../../Assets/abdulhaye.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .main_div_second_expert {
+    width: 80%;
+    margin-left: 10%;
+    height: 378.38px;
+    background-image: url("./../../Assets/abdulsami.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .main_div_third_expert {
+    width: 80%;
+    margin-left: 10%;
+    height: 378.38px;
+    background-image: url("./../../Assets/bilal.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+}
+@media only screen and (max-width: 575px) {
+  .main_div_team_experts {
+    width: 100%;
+    background: #1d4480;
+    height: auto;
+    padding-top: 3%;
+    padding-bottom: 10%;
+  }
+  .text_align_center_div_team_exp {
+    text-align: center;
+  }
+  .orange_line_team_exp {
+    width: 41px;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    margin-right: 10px;
+    margin-top: 8px;
+  }
+  .para_team_exp_orange_line {
+    color: #f90;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    text-transform: capitalize;
+    margin-right: 10px;
+  }
+  .lets_meet_with_white_para {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+  }
+  .experts_orange_para {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 10px;
+  }
+  .main_div_first_expert {
+    width: 100%;
+    margin-left: 0%;
+    height: 378.38px;
+    background-image: url("./../../Assets/abdulhaye.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 7%;
+  }
+  .main_div_second_expert {
+    width: 100%;
+    margin-left: 0%;
+    height: 378.38px;
+    background-image: url("./../../Assets/abdulsami.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 7%;
+  }
+  .main_div_third_expert {
+    width: 100%;
+    margin-left: 0%;
+    height: 378.38px;
+    background-image: url("./../../Assets/bilal.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 7%;
+  }
+  .icons_bg_style {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.19) 0%, #00255f 100%);
+    width: 100%;
+    height: 99px;
+    flex-shrink: 0;
+  }
+  .username_para_experts {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 4px; /* 120% */
+    margin-top: 22px;
+  }
+  .designation_para_experts {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 10px; /* 120% */
+  }
+  .icon_style_icons_team_exp {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .orange_div_below_icons {
+    width: 70%;
+    margin-top: 2%;
+    margin-left: 15%;
+    height: 20.36px;
+    flex-shrink: 0;
+    border-radius: 0px 0px 3px 3px;
+    background: #f90;
+  }
+}

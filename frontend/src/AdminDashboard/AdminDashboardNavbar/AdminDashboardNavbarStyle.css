@@ -1,0 +1,322 @@
+.main_div_navbar_dashboardadmin_podiocrmsystems {
+    background: #1d4480;
+    width: 100%;
+    height: 110px;
+    flex-shrink: 0;
+  }
+  .logo_style_dashboardadmin {
+    width: 217.885px;
+    height: 107.129px;
+  }
+  .dashboard_adminheading {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 120% */
+    margin-top: 7%;
+  }
+  .round_div_for_profilepic {
+    border-radius: 80px;
+    border: 3px solid #f90;
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    margin-top: 3.5% !important;
+  }
+  .logo_style_dashboardadmin_round {
+    width: 100%;
+    height: 100%;
+  }
+  .logout_style_button_admin {
+    height: 50px;
+    border-radius: 30px;
+    background: #f70102;
+    width: 192.17px;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 15%;
+    margin-left: 0%;
+    border-color: none;
+    border-style: none;
+  }
+  
+  @media only screen and (max-width: 1400px) {
+    .main_div_navbar_dashboardadmin_podiocrmsystems {
+      background: #1d4480;
+      width: 100%;
+      height: 110px;
+      flex-shrink: 0;
+    }
+    .logo_style_dashboardadmin {
+      width: 217.885px;
+      height: 107.129px;
+    }
+    .dashboard_adminheading {
+      color: #fff;
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+      font-size: 36px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 48px; /* 120% */
+      margin-top: 10%;
+    }
+    .round_div_for_profilepic {
+      border-radius: 80px;
+      border: 3px solid #f90;
+      width: 70px;
+      height: 70px;
+      flex-shrink: 0;
+      margin-top: 5% !important;
+    }
+    .logo_style_dashboardadmin_round {
+      width: 100%;
+      height: 100%;
+    }
+    .logout_style_button_admin {
+      height: 50px;
+      border-radius: 30px;
+      background: #f70102;
+      width: 172.17px;
+      align-items: center;
+      color: #fff;
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 26px; /* 162.5% */
+      margin-top: 17%;
+      margin-left: 0%;
+      border-color: none;
+      border-style: none;
+    }
+  }
+  
+  @media only screen and (max-width: 1200px) {
+    .main_div_navbar_dashboardadmin_podiocrmsystems {
+      background: #1d4480;
+      width: 100%;
+      height: 110px;
+      flex-shrink: 0;
+    }
+    .logo_style_dashboardadmin {
+      width: 200px;
+      height: 100px;
+      margin-top: 1%;
+    }
+    .dashboard_adminheading {
+      color: #fff;
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+      font-size: 34px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 48px; /* 120% */
+      margin-top: 11%;
+    }
+    .round_div_for_profilepic {
+      border-radius: 80px;
+      border: 3px solid #f90;
+      width: 70px;
+      height: 70px;
+      flex-shrink: 0;
+      margin-top: 6% !important;
+    }
+    .logo_style_dashboardadmin_round {
+      width: 100%;
+      height: 100%;
+    }
+    .logout_style_button_admin {
+      height: 50px;
+      border-radius: 30px;
+      background: #f70102;
+      width: 172.17px;
+      align-items: center;
+      color: #fff;
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 26px; /* 162.5% */
+      margin-top: 17%;
+      margin-left: 0%;
+      border-color: none;
+      border-style: none;
+    }
+  }
+  
+  @media only screen and (max-width: 991px) {
+    .main_div_navbar_dashboardadmin_podiocrmsystems {
+      background: #1d4480;
+      width: 100%;
+      height: 110px;
+      flex-shrink: 0;
+    }
+    .logo_style_dashboardadmin {
+      width: 180px;
+      height: 90px;
+      margin-top: 4%;
+    }
+    .dashboard_adminheading {
+      color: #fff;
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 48px; /* 120% */
+      margin-top: 14%;
+    }
+    .round_div_for_profilepic {
+      border-radius: 80px;
+      border: 3px solid #f90;
+      width: 60px;
+      height: 60px;
+      flex-shrink: 0;
+      margin-top: 12% !important;
+    }
+    .logo_style_dashboardadmin_round {
+      width: 100%;
+      height: 100%;
+    }
+    .logout_style_button_admin {
+      height: 50px;
+      border-radius: 30px;
+      background: #f70102;
+      width: 112.17px !important;
+      align-items: center;
+      color: #fff;
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 26px; /* 162.5% */
+      margin-top: 25.5%;
+      margin-left: 0%;
+      border-color: none;
+      border-style: none;
+    }
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .main_div_navbar_dashboardadmin_podiocrmsystems {
+      background: #1d4480;
+      width: 100%;
+      height: auto;
+      flex-shrink: 0;
+      padding-bottom: 5%;
+    }
+    .logo_style_dashboardadmin {
+      width: 180px;
+      height: 90px;
+      margin-top: 4%;
+    }
+    .dashboard_adminheading {
+      color: #fff;
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 48px; /* 120% */
+      margin-top: 14%;
+    }
+    .round_div_for_profilepic {
+      border-radius: 80px;
+      border: 3px solid #f90;
+      width: 70px;
+      height: 70px;
+      flex-shrink: 0;
+      margin-top: 12% !important;
+    }
+    .logo_style_dashboardadmin_round {
+      width: 100%;
+      height: 100%;
+    }
+    .logout_style_button_admin {
+      height: 50px;
+      border-radius: 30px;
+      background: #f70102;
+      width: 132.17px !important;
+      align-items: center;
+      color: #fff;
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 26px; /* 162.5% */
+      margin-top: 14.5%;
+      margin-left: 2%;
+      border-color: none;
+      border-style: none;
+    }
+  }
+  
+  @media only screen and (max-width: 575px) {
+      .main_div_navbar_dashboardadmin_podiocrmsystems {
+        background: #1d4480;
+        width: 100%;
+        height: auto;
+        flex-shrink: 0;
+        padding-bottom: 5%;
+      }
+      .logo_style_dashboardadmin {
+        width: 180px;
+        height: 90px;
+        margin-top: 4%;
+      }
+      .dashboard_adminheading {
+        color: #fff;
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 48px; /* 120% */
+        margin-top: 14%;
+      }
+      .round_div_for_profilepic {
+        border-radius: 80px;
+        border: 3px solid #f90;
+        width: 60px;
+        height: 60px;
+        flex-shrink: 0;
+        margin-top: 7% !important;
+      }
+      .logo_style_dashboardadmin_round {
+        width: 100%;
+        height: 100%;
+      }
+      .logout_style_button_admin {
+        height: 50px;
+        border-radius: 30px;
+        background: #f70102;
+        width: 122.17px !important;
+        align-items: center;
+        color: #fff;
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px; /* 162.5% */
+        margin-top: 8.2%;
+        margin-left: 2%;
+        border-color: none;
+        border-style: none;
+      }
+    }
+  

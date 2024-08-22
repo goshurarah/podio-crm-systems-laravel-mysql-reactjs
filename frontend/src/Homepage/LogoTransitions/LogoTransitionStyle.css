@@ -1,0 +1,63 @@
+.logo_para_transition {
+  color: #232323;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 21.6px; /* 120% */
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+.main_div_logo_transitions {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.slick-next:before,
+.slick-prev:before {
+  display: none;
+}
+
+.slick-next {
+  display: none;
+  /* right: 0px !important; */
+}
+
+.logo_style_transition {
+  width: 200px;
+  height: 70px;
+}
+.logo_style_transition2 {
+  width: 200px;
+  height: 70px;
+}
+.logo_style_transition1 {
+  width: 200px;
+  height: 70px;
+
+
+}
+.logo_style_transition5 {
+  width: 200px;
+  height: 70px;
+}
+@media only screen and (max-width: 1300px) {
+  .logo_para_transition {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21.6px; /* 120% */
+    margin-top: 4%;
+    margin-bottom: 4%;
+  }
+
+  .main_div_logo_transitions {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+}

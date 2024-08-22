@@ -1,0 +1,718 @@
+.future_income_para {
+  font-family: "Poppins", sans-serif;
+  font-size: 35px;
+  font-weight: 300;
+  line-height: 10px;
+  text-align: left;
+  color: #1d4480;
+  margin-top: 140px;
+}
+
+.Earn_Passive_income_para {
+  color: #ff9900;
+  font-family: "Poppins", sans-serif;
+  font-size: 52px;
+  font-weight: 500;
+  line-height: 66px;
+  text-align: left;
+}
+.From_Kind_Products_para {
+  color: #1d4480;
+  font-family: "Poppins", sans-serif;
+  font-size: 52px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: left;
+}
+.become_an_affiliated_btn {
+  width: 224px;
+  height: 52px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  color: #ffffff;
+  background: #ff9900;
+  outline: none;
+  border-style: none;
+  /* border: 1px solid #ff9900; */
+  border-radius: 30px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+  animation-name: example;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+  from {
+    background: #ff9900;
+  }
+  to {
+    background: #1d4480;
+  }
+}
+.icon_style_affiliated {
+  margin-top: 60px;
+}
+.icon_style_affiliated_second {
+  display: none;
+}
+
+@media only screen and (max-width: 1200px) {
+  .future_income_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 10px;
+    text-align: left;
+    color: #1d4480;
+    margin-top: 140px;
+  }
+  .Earn_Passive_income_para {
+    color: #ff9900;
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+  }
+  .From_Kind_Products_para {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 6px;
+    text-align: left;
+  }
+  .become_an_affiliated_btn {
+    width: 224px;
+    height: 52px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: #ffffff;
+    background: #ff9900;
+    border: 1px solid #ff9900;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
+  .icon_style_affiliated {
+    margin-top: 100px;
+    width: 427px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .future_income_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 10px;
+    text-align: left;
+    color: #1d4480;
+    margin-top: 140px;
+  }
+  .Earn_Passive_income_para {
+    color: #ff9900;
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+  }
+  .From_Kind_Products_para {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 6px;
+    text-align: left;
+  }
+  .become_an_affiliated_btn {
+    width: 224px;
+    height: 52px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: #ffffff;
+    background: #ff9900;
+    border: 1px solid #ff9900;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
+  .icon_style_affiliated {
+    margin-top: 100px;
+    width: 327px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .future_income_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 10px;
+    text-align: left;
+    color: #1d4480;
+    margin-top: 140px;
+  }
+  .Earn_Passive_income_para {
+    color: #ff9900;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+  }
+  .From_Kind_Products_para {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 2px;
+    text-align: left;
+  }
+  .become_an_affiliated_btn {
+    width: 224px;
+    height: 52px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: #ffffff;
+    background: #ff9900;
+    border: 1px solid #ff9900;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
+  .icon_style_affiliated {
+    margin-top: 130px;
+    width: 227px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .future_income_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 10px;
+    text-align: center;
+    color: #1d4480;
+    margin-top: 100px;
+  }
+  .Earn_Passive_income_para {
+    color: #ff9900;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+  }
+  .From_Kind_Products_para {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 2px;
+    text-align: center;
+  }
+  .become_an_affiliated_btn {
+    width: 50%;
+    height: 52px;
+    margin-left: 25%;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: #ffffff;
+    background: #ff9900;
+    border: 1px solid #ff9900;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+  }
+  .icon_style_affiliated {
+    display: none;
+  }
+  .icon_style_affiliated_second {
+    display: block;
+    margin-top: 30px;
+    width: 50%;
+    margin-left: 25%;
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .future_income_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 10px;
+    text-align: center;
+    color: #1d4480;
+    margin-top: 100px;
+  }
+  .Earn_Passive_income_para {
+    color: #ff9900;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+  }
+  .From_Kind_Products_para {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 2px;
+    text-align: center;
+  }
+  .become_an_affiliated_btn {
+    width: 60%;
+    height: 52px;
+    margin-left: 20%;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: #ffffff;
+    background: #ff9900;
+    border: 1px solid #ff9900;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+  }
+  .icon_style_affiliated {
+    display: none;
+  }
+  .icon_style_affiliated_second {
+    display: block;
+    margin-top: 30px;
+    width: 60%;
+    margin-left: 20%;
+    align-items: center;
+  }
+}
+
+.how_to_earn_para {
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43.2px;
+  text-align: center;
+  color: #232323;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+.passive_income_para {
+  margin-top: 70px;
+  margin-bottom: 50px;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 43.2px;
+  text-align: center;
+  color: #ff9900;
+  margin-left: 7px;
+}
+.card_step_one_main_div {
+  background: #eeeeee;
+  width: 100%;
+  height: 269px;
+  border-radius: 3px 3px 3px 3px;
+  padding: 20px;
+}
+.step_one_heading {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+  color: #ff9900;
+}
+.step_one_desp {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 6px;
+  text-align: left;
+  color: #1d4480;
+}
+.icon_step_one {
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 1400px) {
+  .how_to_earn_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #232323;
+    margin-top: 70px;
+    margin-bottom: 50px;
+  }
+  .passive_income_para {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    font-family: "Poppins", sans-serif;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #ff9900;
+    margin-left: 7px;
+  }
+  .card_step_one_main_div {
+    background: #eeeeee;
+    width: 100%;
+    height: 269px;
+    border-radius: 3px 3px 3px 3px;
+    padding: 20px;
+  }
+  .step_one_heading {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .step_one_desp {
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 6px;
+    text-align: left;
+    color: #1d4480;
+  }
+  .icon_step_one {
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .how_to_earn_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #232323;
+    margin-top: 50px;
+  }
+  .passive_income_para {
+    margin-top: 50px;
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #ff9900;
+    margin-left: 7px;
+  }
+  .card_step_one_main_div {
+    background: #eeeeee;
+    width: 100%;
+    height: 269px;
+    border-radius: 3px 3px 3px 3px;
+    padding: 20px;
+  }
+  .step_one_heading {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .step_one_desp {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 6px;
+    text-align: left;
+    color: #1d4480;
+  }
+  .icon_step_one {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .how_to_earn_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #232323;
+    margin-top: 50px;
+  }
+  .passive_income_para {
+    margin-top: 50px;
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #ff9900;
+    margin-left: 7px;
+  }
+  .card_step_one_main_div {
+    background: #eeeeee;
+    width: 100%;
+    height: 269px;
+    border-radius: 3px 3px 3px 3px;
+    padding: 20px;
+    margin-bottom: 25px;
+  }
+  .step_one_heading {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .step_one_desp {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 6px;
+    text-align: left;
+    color: #1d4480;
+  }
+  .icon_step_one {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .how_to_earn_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #232323;
+    margin-top: 50px;
+  }
+  .passive_income_para {
+    margin-top: 50px;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #ff9900;
+    margin-left: 7px;
+  }
+  .card_step_one_main_div {
+    background: #eeeeee;
+    width: 100%;
+    height: 269px;
+    border-radius: 3px 3px 3px 3px;
+    padding: 20px;
+    margin-bottom: 25px;
+  }
+  .step_one_heading {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .step_one_desp {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 6px;
+    text-align: left;
+    color: #1d4480;
+  }
+  .icon_step_one {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .how_to_earn_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #232323;
+    margin-top: 50px;
+  }
+  .passive_income_para {
+    margin-top: 50px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 43.2px;
+    text-align: center;
+    color: #ff9900;
+    margin-left: 7px;
+  }
+  .card_step_one_main_div {
+    background: #eeeeee;
+    width: 100%;
+    height: 269px;
+    border-radius: 3px 3px 3px 3px;
+    padding: 20px;
+    margin-bottom: 25px;
+  }
+  .step_one_heading {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .step_one_desp {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 6px;
+    text-align: left;
+    color: #1d4480;
+  }
+  .icon_step_one {
+    margin-top: 10px;
+  }
+}
+
+.kind_affiliat_main_div {
+  width: 100%;
+  height: 192px;
+  background: #1d4480;
+  border-radius: 3px 3px 3px 3px;
+  margin-bottom: 50px;
+}
+.icon_kind {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.kind_desp {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: center;
+  color: #ffffff;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+@media only screen and (max-width: 1400px) {
+  .kind_affiliat_main_div {
+    width: 100%;
+    height: 192px;
+    background: #1d4480;
+    border-radius: 3px 3px 3px 3px;
+  }
+  .icon_kind {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .kind_desp {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: center;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .kind_affiliat_main_div {
+    width: 100%;
+    height: 192px;
+    background: #1d4480;
+    border-radius: 3px 3px 3px 3px;
+  }
+  .icon_kind {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .kind_desp {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: center;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .kind_affiliat_main_div {
+    width: 100%;
+    height: 192px;
+    background: #1d4480;
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 20px;
+  }
+  .icon_kind {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .kind_desp {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .kind_affiliat_main_div {
+    width: 100%;
+    height: 192px;
+    background: #1d4480;
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 20px;
+  }
+  .icon_kind {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .kind_desp {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}

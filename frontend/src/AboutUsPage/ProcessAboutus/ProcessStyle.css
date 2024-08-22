@@ -1,0 +1,612 @@
+.main_div_realestatejourney {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  background: #fff;
+}
+
+.first_heading_white_process {
+  color: #232323;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 23.2px; /* 120% */
+}
+
+.first_heading_orange_process {
+  color: #f90;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 23.2px;
+  margin-left: 0px;
+}
+.para_below_heading_process {
+  color: #686868;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  margin-top: 10px;
+}
+
+.main_div_card_process {
+  margin-top: 7%;
+}
+
+.main_div_card_process_inside {
+  width: 100%;
+  height: 346px;
+  flex-shrink: 0;
+  border: 1px solid rgba(35, 35, 35, 0.1);
+  background: #fff;
+  margin-bottom: 30%;
+}
+.bold_number_in_card_process {
+  color: #232323;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 66px; /* 120% */
+  opacity: 0.1;
+}
+.card_align_image_process {
+  text-align: center !important;
+}
+.image_in_card_process {
+  margin-top: -50%;
+}
+
+.heading_card_inside_process {
+  color: #232323;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 140% */
+}
+.hr_tag_in_card_process {
+  width: 14%;
+  margin-left: 43%;
+  height: 2px;
+  flex-shrink: 0;
+  background: #f90;
+  text-align: center;
+}
+
+.para_in_card_process {
+  color: #686868;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  margin-top: 10%;
+}
+
+.para_main_in_card_process {
+  margin-left: 2%;
+  width: 96%;
+}
+
+.flexcentercard {
+  display: flex;
+  justify-content: center;
+}
+.displaynonecard {
+  display: none;
+}
+@media only screen and (max-width: 1400px) {
+  .main_div_realestatejourney {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background: #fff;
+  }
+
+  .first_heading_white_process {
+    color: #232323;
+    font-family: "Poppins", sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px; /* 120% */
+  }
+
+  .first_heading_orange_process {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px;
+   
+  }
+  .para_below_heading_process {
+    color: #686868;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10px;
+  }
+
+  .main_div_card_process {
+    margin-top: 7%;
+  }
+
+  .main_div_card_process_inside {
+    width: 100%;
+    height: 346px;
+    flex-shrink: 0;
+    border: 1px solid rgba(35, 35, 35, 0.1);
+    background: #fff;
+    margin-bottom: 30%;
+  }
+  .bold_number_in_card_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 66px; /* 120% */
+    opacity: 0.1;
+  }
+  .card_align_image_process {
+    text-align: center !important;
+  }
+  .image_in_card_process {
+    margin-top: -50%;
+  }
+
+  .heading_card_inside_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+  }
+  .hr_tag_in_card_process {
+    width: 14%;
+    margin-left: 43%;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    text-align: center;
+  }
+
+  .para_in_card_process {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10%;
+  }
+
+  .para_main_in_card_process {
+    margin-left: 2%;
+    width: 96%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .main_div_realestatejourney {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background: #fff;
+  }
+
+  .first_heading_white_process {
+    color: #232323;
+    font-family: "Poppins", sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px; /* 120% */
+  }
+
+  .first_heading_orange_process {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px;
+  
+  }
+  .para_below_heading_process {
+    color: #686868;
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10px;
+  }
+
+  .main_div_card_process {
+    margin-top: 15%;
+  }
+
+  .main_div_card_process_inside {
+    width: 100%;
+    height: 346px;
+    flex-shrink: 0;
+    border: 1px solid rgba(35, 35, 35, 0.1);
+    background: #fff;
+    margin-bottom: 30%;
+  }
+  .bold_number_in_card_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 66px; /* 120% */
+    opacity: 0.1;
+  }
+  .card_align_image_process {
+    text-align: center !important;
+  }
+  .image_in_card_process {
+    margin-top: -50%;
+    width: 60px;
+    height: 60px;
+  }
+
+  .heading_card_inside_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+  }
+  .hr_tag_in_card_process {
+    width: 14%;
+    margin-left: 43%;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    text-align: center;
+  }
+
+  .para_in_card_process {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10%;
+  }
+
+  .para_main_in_card_process {
+    margin-left: 2%;
+    width: 96%;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .main_div_realestatejourney {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background: #fff;
+  }
+  .flexcentercard {
+    display: none;
+  }
+  .displaynonecard {
+    display: block;
+  }
+  .first_heading_white_process {
+    color: #232323;
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px; /* 120% */
+  }
+
+  .first_heading_orange_process {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px;
+
+  }
+  .para_below_heading_process {
+    color: #686868;
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10px;
+  }
+
+  .main_div_card_process {
+    margin-top: 15%;
+  }
+
+  .main_div_card_process_inside {
+    width: 100%;
+    height: 346px;
+    flex-shrink: 0;
+    border: 1px solid rgba(35, 35, 35, 0.1);
+    background: #fff;
+    margin-bottom: 30%;
+  }
+  .bold_number_in_card_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 66px; /* 120% */
+    opacity: 0.1;
+  }
+  .card_align_image_process {
+    text-align: center !important;
+  }
+  .image_in_card_process {
+    margin-top: -50%;
+    width: 60px;
+    height: 60px;
+  }
+
+  .heading_card_inside_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+  }
+  .hr_tag_in_card_process {
+    width: 14%;
+    margin-left: 43%;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    text-align: center;
+  }
+
+  .para_in_card_process {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10%;
+  }
+
+  .para_main_in_card_process {
+    margin-left: 2%;
+    width: 96%;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .main_div_realestatejourney {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background: #fff;
+  }
+
+  .first_heading_white_process {
+    color: #232323;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px; /* 120% */
+  }
+
+  .first_heading_orange_process {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px;
+
+  }
+  .para_below_heading_process {
+    color: #686868;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10px;
+  }
+
+  .main_div_card_process {
+    margin-top: 15%;
+  }
+
+  .main_div_card_process_inside {
+    width: 88%;
+    height: 346px;
+    flex-shrink: 0;
+    border: 1px solid rgba(35, 35, 35, 0.1);
+    background: #fff;
+    margin-bottom: 30%;
+    margin-left: 5.5%;
+  }
+  .bold_number_in_card_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 66px; /* 120% */
+    opacity: 0.1;
+  }
+  .card_align_image_process {
+    text-align: center !important;
+  }
+  .image_in_card_process {
+    margin-top: -50%;
+    width: 60px;
+    height: 60px;
+  }
+
+  .heading_card_inside_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+  }
+  .hr_tag_in_card_process {
+    width: 14%;
+    margin-left: 43%;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    text-align: center;
+  }
+
+  .para_in_card_process {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10%;
+  }
+
+  .para_main_in_card_process {
+    margin-left: 2%;
+    width: 96%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .main_div_realestatejourney {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background: #fff;
+  }
+
+  .first_heading_white_process {
+    color: #232323;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px; /* 120% */
+  }
+
+  .first_heading_orange_process {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23.2px;
+
+  }
+  .para_below_heading_process {
+    color: #686868;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10px;
+  }
+
+  .main_div_card_process {
+    margin-top: 15%;
+  }
+
+  .main_div_card_process_inside {
+    width: 91%;
+    height: 346px;
+    flex-shrink: 0;
+    border: 1px solid rgba(35, 35, 35, 0.1);
+    background: #fff;
+    margin-bottom: 30%;
+  }
+  .bold_number_in_card_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 66px; /* 120% */
+    opacity: 0.1;
+  }
+  .card_align_image_process {
+    text-align: center !important;
+  }
+  .image_in_card_process {
+    margin-top: -50%;
+    width: 60px;
+    height: 60px;
+  }
+
+  .heading_card_inside_process {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+  }
+  .hr_tag_in_card_process {
+    width: 14%;
+    margin-left: 43%;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    text-align: center;
+  }
+
+  .para_in_card_process {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10%;
+  }
+
+  .para_main_in_card_process {
+    margin-left: 2%;
+    width: 96%;
+  }
+}

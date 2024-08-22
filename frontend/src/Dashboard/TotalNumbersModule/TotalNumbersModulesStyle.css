@@ -1,0 +1,730 @@
+.main_div_totla_numbers_module {
+  width: 100%;
+  height: auto;
+  padding-top: 3%;
+  padding-bottom: 2%;
+  background-color: #efefef;
+}
+.total_integration_div {
+  width: 100%;
+  height: 150px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+  padding: 10px;
+}
+.total_integration_para {
+  color: #1d4480;
+  leading-trim: both;
+  text-edge: cap;
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.totlainetgration_icon_style {
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+  margin-right: 5px;
+}
+
+.totla_number_integration_para {
+  color: #f90;
+  leading-trim: both;
+  text-edge: cap;
+
+  font-family: "Inter", sans-serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 5px;
+}
+
+.main_div_profile_detail {
+  width: 100%;
+  height: 150px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+  padding: 15px;
+}
+
+.profile_picture_user_dashboard {
+  border-radius: 80px;
+  border: 3px solid #f90;
+  width: 80px;
+  height: 80px;
+  flex-shrink: 0;
+  margin-top: 18%;
+  overflow: hidden;
+  margin-left: 10%;
+  cursor: pointer;
+}
+.image_in_profile_div_dashboard {
+  width: 100%;
+  height: 100%;
+  
+}
+.First_Name_para_profile {
+  color: #1d4480;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+}
+.namepara_profile_dashboard {
+  color: #606060;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  margin-left: 10px;
+}
+@media only screen and (max-width: 1500px) {
+    .main_div_totla_numbers_module {
+      width: 100%;
+      height: auto;
+      padding-top: 2%;
+      padding-bottom: 2%;
+      background-color: #efefef;
+    }
+    .total_integration_div {
+      width: 100%;
+      height: 150px;
+      flex-shrink: 0;
+      border-radius: 10px;
+      background: #fff;
+      box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+      padding: 10px;
+    }
+    .total_integration_para {
+      color: #1d4480;
+      leading-trim: both;
+      text-edge: cap;
+      font-family: "Poppins", sans-serif;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin-top: 5px;
+    }
+    .totlainetgration_icon_style {
+      width: 28px;
+      height: 28px;
+      flex-shrink: 0;
+      margin-right: 5px;
+      margin-top: 5px;
+    }
+  
+    .totla_number_integration_para {
+      color: #f90;
+      leading-trim: both;
+      text-edge: cap;
+      font-family: "Inter", sans-serif;
+      font-size: 58px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin-top: 10px;
+    }
+  
+    .main_div_profile_detail {
+      width: 100%;
+      height: 150px;
+      flex-shrink: 0;
+      border-radius: 10px;
+      background: #fff;
+      box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+      padding: 15px;
+    }
+  
+    .profile_picture_user_dashboard {
+      border-radius: 80px;
+      border: 3px solid #f90;
+      width: 80px;
+      height: 80px;
+      flex-shrink: 0;
+      margin-top: 28%;
+      overflow: hidden;
+      margin-left: 5%;
+    }
+    .image_in_profile_div_dashboard {
+      width: 100%;
+      height: 100%;
+    }
+    .First_Name_para_profile {
+      color: #1d4480;
+      font-family: "Poppins", sans-serif;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 18px;
+    }
+    .namepara_profile_dashboard {
+      color: #606060;
+      font-family: "Poppins", sans-serif;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 18px;
+      margin-left: 10px;
+    }
+  }
+@media only screen and (max-width: 1380px) {
+  .main_div_totla_numbers_module {
+    width: 100%;
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #efefef;
+  }
+  .total_integration_div {
+    width: 100%;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 10px;
+  }
+  .total_integration_para {
+    color: #1d4480;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 5px;
+  }
+  .totlainetgration_icon_style {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+
+  .totla_number_integration_para {
+    color: #f90;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Inter", sans-serif;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 10px;
+  }
+
+  .main_div_profile_detail {
+    width: 100%;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 15px;
+  }
+
+  .profile_picture_user_dashboard {
+    border-radius: 80px;
+    border: 3px solid #f90;
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    margin-top: 22%;
+    overflow: hidden;
+  }
+  .image_in_profile_div_dashboard {
+    width: 100%;
+    height: 100%;
+  }
+  .First_Name_para_profile {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+  }
+  .namepara_profile_dashboard {
+    color: #606060;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 1330px) {
+  .main_div_totla_numbers_module {
+    width: 100%;
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #efefef;
+  }
+  .total_integration_div {
+    width: 100%;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 10px;
+  }
+  .total_integration_para {
+    color: #1d4480;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 5px;
+  }
+  .totlainetgration_icon_style {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+
+  .totla_number_integration_para {
+    color: #f90;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Inter", sans-serif;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 16px;
+  }
+
+  .main_div_profile_detail {
+    width: 100%;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 15px;
+  }
+
+  .profile_picture_user_dashboard {
+    border-radius: 80px;
+    border: 3px solid #f90;
+    width: 70px;
+    height: 70px;
+    flex-shrink: 0;
+    margin-top: 28%;
+    overflow: hidden;
+  }
+  .image_in_profile_div_dashboard {
+    width: 100%;
+    height: 100%;
+  }
+  .First_Name_para_profile {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+  }
+  .namepara_profile_dashboard {
+    color: #606060;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 1150px) {
+  .main_div_totla_numbers_module {
+    width: 100%;
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #efefef;
+  }
+  .total_integration_div {
+    width: 100%;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 10px;
+  }
+  .total_integration_para {
+    color: #1d4480;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 8px;
+  }
+  .totlainetgration_icon_style {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+
+  .totla_number_integration_para {
+    color: #f90;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 20px;
+  }
+
+  .main_div_profile_detail {
+    width: 100%;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 15px;
+  }
+
+  .profile_picture_user_dashboard {
+    border-radius: 80px;
+    border: 3px solid #f90;
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    margin-top: 40%;
+    overflow: hidden;
+  }
+  .image_in_profile_div_dashboard {
+    width: 100%;
+    height: 100%;
+  }
+  .First_Name_para_profile {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    margin-left: 15px;
+  }
+  .namepara_profile_dashboard {
+    color: #606060;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .main_div_totla_numbers_module {
+    width: 100%;
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #efefef;
+  }
+  .total_integration_div {
+    width: 100%;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 10px;
+  }
+  .total_integration_para {
+    color: #1d4480;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 8px;
+  }
+  .totlainetgration_icon_style {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+
+  .totla_number_integration_para {
+    color: #f90;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 20px;
+  }
+
+  .main_div_profile_detail {
+    width: 100%;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 15px;
+    margin-top: 3%;
+  }
+
+  .profile_picture_user_dashboard {
+    border-radius: 80px;
+    border: 3px solid #f90;
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    margin-top: 20%;
+    overflow: hidden;
+  }
+  .image_in_profile_div_dashboard {
+    width: 100%;
+    height: 100%;
+  }
+  .First_Name_para_profile {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    margin-left: 1px;
+  }
+  .namepara_profile_dashboard {
+    color: #606060;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .main_div_totla_numbers_module {
+    width: 100%;
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #efefef;
+  }
+  .total_integration_div {
+    width: 100%;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 10px;
+    margin-top: 3%;
+  }
+  .total_integration_para {
+    color: #1d4480;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 8px;
+  }
+  .totlainetgration_icon_style {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+
+  .totla_number_integration_para {
+    color: #f90;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 20px;
+  }
+
+  .main_div_profile_detail {
+    width: 100%;
+    height: auto;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+    padding: 15px;
+    margin-top: 3%;
+  }
+
+  .profile_picture_user_dashboard {
+    border-radius: 80px;
+    border: 3px solid #f90;
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    margin-top: 2%;
+    margin-left: 0%;
+    overflow: hidden;
+    margin-bottom: 4%;
+  }
+  .image_in_profile_div_dashboard {
+    width: 100%;
+    height: 100%;
+  }
+  .First_Name_para_profile {
+    color: #1d4480;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    margin-left: 1px;
+  }
+  .namepara_profile_dashboard {
+    color: #606060;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    margin-left: 10px;
+  }
+}
+@media only screen and (max-width: 400px) {
+    .main_div_totla_numbers_module {
+      width: 100%;
+      height: auto;
+      padding-top: 2%;
+      padding-bottom: 2%;
+      background-color: #efefef;
+    }
+    .total_integration_div {
+      width: 100%;
+      height: 150px;
+      flex-shrink: 0;
+      border-radius: 10px;
+      background: #fff;
+      box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+      padding: 10px;
+      margin-top: 3%;
+    }
+    .total_integration_para {
+      color: #1d4480;
+      leading-trim: both;
+      text-edge: cap;
+      font-family: "Poppins", sans-serif;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin-top: 8px;
+    }
+    .totlainetgration_icon_style {
+      width: 24px;
+      height: 24px;
+      flex-shrink: 0;
+      margin-right: 5px;
+      margin-top: 5px;
+    }
+  
+    .totla_number_integration_para {
+      color: #f90;
+      leading-trim: both;
+      text-edge: cap;
+      font-family: "Inter", sans-serif;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin-top: 20px;
+    }
+  
+    .main_div_profile_detail {
+      width: 100%;
+      height: auto;
+      flex-shrink: 0;
+      border-radius: 10px;
+      background: #fff;
+      box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.02);
+      padding: 15px;
+      margin-top: 3%;
+    }
+  
+    .profile_picture_user_dashboard {
+      border-radius: 80px;
+      border: 3px solid #f90;
+      width: 80px;
+      height: 80px;
+      flex-shrink: 0;
+      margin-top: 2%;
+      margin-left: 0%;
+      overflow: hidden;
+      margin-bottom: 4%;
+    }
+    .image_in_profile_div_dashboard {
+      width: 100%;
+      height: 100%;
+    }
+    .First_Name_para_profile {
+      color: #1d4480;
+      font-family: "Poppins", sans-serif;
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 18px;
+      margin-left: 1px;
+    }
+    .namepara_profile_dashboard {
+      color: #606060;
+      font-family: "Poppins", sans-serif;
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 18px;
+      margin-left: 5px;
+    }
+  }

@@ -1,0 +1,102 @@
+.main_div_end_footer{
+    border-top: 1px solid #626065;
+background: #FFF;
+height: 60px;
+width: 100%;
+}
+
+.para_in_end_footer{
+    color: #000;
+    font-family: "Rubik", sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+margin-top: 9%;
+}
+.para_orange_in_end_footer{
+    color: #F90;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 9%;
+margin-right: 5px;
+margin-left: 5px;
+}
+
+@media only screen and (max-width: 991px) {
+    .main_div_end_footer{
+        border-top: 1px solid #626065;
+    background: #FFF;
+    height: 60px;
+    width: 100%;
+    }
+    
+    .para_in_end_footer{
+        color: #000;
+        font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 7%;
+    }
+    .para_orange_in_end_footer{
+        color: #F90;
+        font-family: "Rubik", sans-serif;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    margin-top: 7%;
+    margin-right: 5px;
+    margin-left: 5px;
+    }
+    .icon_end_footer{
+        width: 90px;
+        height: 60px;
+
+    }
+
+
+}
+
+@media only screen and (max-width: 500px) {
+    .main_div_end_footer{
+        border-top: 1px solid #626065;
+    background: #FFF;
+    height: 60px;
+    width: 100%;
+    }
+    
+    .para_in_end_footer{
+        color: #000;
+        font-family: "Rubik", sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 7%;
+    }
+    .para_orange_in_end_footer{
+        color: #F90;
+        font-family: "Rubik", sans-serif;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    margin-top: 7%;
+    margin-right: 5px;
+    margin-left: 5px;
+    }
+    .icon_end_footer{
+        width: 70px;
+        height: 40px;
+        margin-top: 3%;
+
+    }
+
+
+}

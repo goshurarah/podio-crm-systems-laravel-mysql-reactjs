@@ -1,0 +1,353 @@
+.black_heading_why {
+  color: #232323;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 43.2px; /* 120% */
+  margin-right: 7px;
+}
+.orange_heading_why {
+  color: #f90;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 43.2px;
+}
+.main_div_card {
+  margin-top: 7%;
+  margin-bottom: 5%;
+}
+.main_div_card_why_us {
+  width: 100%;
+  height: 346px;
+  flex-shrink: 0;
+  border: 1px solid rgba(35, 35, 35, 0.1);
+  background: #fff;
+  margin-bottom: 30%;
+}
+.bold_number_in_card {
+  color: #232323;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 66px; /* 120% */
+  opacity: 0.1;
+}
+.card_align_image {
+  text-align: center !important;
+}
+
+.image_in_card {
+  margin-top: -50%;
+  transition: transform 0.5s ease;
+}
+
+.image_in_card.hovered {
+  transform: scale(1.1);
+}
+
+.heading_card_inside {
+  color: #232323;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 140% */
+}
+.hr_tag_in_card {
+  width: 14%;
+  margin-left: 43%;
+  height: 2px;
+  flex-shrink: 0;
+  background: #f90;
+  text-align: center;
+}
+
+.para_in_card {
+  color: #686868;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  margin-top: 10%;
+}
+
+.para_main_in_card {
+  margin-left: 2%;
+  width: 96%;
+}
+
+@media only screen and (max-width: 1200px) {
+  .black_heading_why {
+    color: #232323;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+    margin-right: 7px;
+  }
+  .orange_heading_why {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+  }
+  .main_div_card {
+    margin-top: 7%;
+    margin-bottom: 5%;
+  }
+  .main_div_card_why_us {
+    width: 100%;
+    height: 346px;
+    flex-shrink: 0;
+    border: 1px solid rgba(35, 35, 35, 0.1);
+    background: #fff;
+    margin-bottom: 30%;
+  }
+  .bold_number_in_card {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 66px; /* 120% */
+    opacity: 0.1;
+  }
+  .card_align_image {
+    text-align: center !important;
+  }
+  .image_in_card {
+    margin-top: -50%;
+    width: 50px;
+    height: 50px;
+    transition: transform 0.5s ease;
+  }
+
+  .image_in_card.hovered {
+    transform: scale(1.1);
+  }
+
+  .heading_card_inside {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+  }
+  .hr_tag_in_card {
+    width: 14%;
+    margin-left: 43%;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    text-align: center;
+  }
+
+  .para_in_card {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10%;
+  }
+
+  .para_main_in_card {
+    margin-left: 2%;
+    width: 96%;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .black_heading_why {
+    color: #232323;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+    margin-right: 7px;
+  }
+  .orange_heading_why {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+  }
+  .main_div_card {
+    margin-top: 7%;
+    margin-bottom: 5%;
+  }
+  .main_div_card_why_us {
+    width: 100%;
+    height: 346px;
+    flex-shrink: 0;
+    border: 1px solid rgba(35, 35, 35, 0.1);
+    background: #fff;
+    margin-bottom: 30%;
+  }
+  .bold_number_in_card {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 66px; /* 120% */
+    opacity: 0.1;
+  }
+  .card_align_image {
+    text-align: center !important;
+  }
+  .image_in_card {
+    margin-top: -50%;
+    width: 50px;
+    height: 50px;
+    transition: transform 0.5s ease;
+  }
+
+  .image_in_card.hovered {
+    transform: scale(1.1);
+  }
+
+  .heading_card_inside {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+  }
+  .hr_tag_in_card {
+    width: 14%;
+    margin-left: 43%;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    text-align: center;
+  }
+
+  .para_in_card {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10%;
+  }
+
+  .para_main_in_card {
+    margin-left: 2%;
+    width: 96%;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .black_heading_why {
+    color: #232323;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px; /* 120% */
+    margin-right: 7px;
+  }
+  .orange_heading_why {
+    color: #f90;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 43.2px;
+  }
+  .main_div_card {
+    margin-top: 7%;
+    margin-bottom: 5%;
+  }
+  .main_div_card_why_us {
+    width: 90%;
+    height: 346px;
+    flex-shrink: 0;
+    border: 1px solid rgba(35, 35, 35, 0.1);
+    background: #fff;
+    margin-bottom: 30%;
+    margin-left: 5%;
+  }
+  .bold_number_in_card {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 66px; /* 120% */
+    opacity: 0.1;
+  }
+  .card_align_image {
+    text-align: center !important;
+  }
+  .image_in_card {
+    margin-top: -20%;
+    width: 50px;
+    height: 50px;
+    transition: transform 0.5s ease;
+  }
+
+  .image_in_card.hovered {
+    transform: scale(1.1);
+  }
+
+  .heading_card_inside {
+    color: #232323;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+  }
+  .hr_tag_in_card {
+    width: 14%;
+    margin-left: 43%;
+    height: 2px;
+    flex-shrink: 0;
+    background: #f90;
+    text-align: center;
+  }
+
+  .para_in_card {
+    color: #686868;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-top: 10%;
+  }
+
+  .para_main_in_card {
+    margin-left: 2%;
+    width: 96%;
+  }
+}

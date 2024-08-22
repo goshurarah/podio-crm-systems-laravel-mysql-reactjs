@@ -1,0 +1,25 @@
+
+.main_div_map_hoempage{
+    width: 99% !important;
+    
+}
+
+
+@media only screen and (max-width: 1300px) {
+
+    .main_div_map_hoempage{
+        width: 97% !important;
+        
+    }
+}
+
+
+
+
+/* .map_setting_style{
+    width: 100% !important;
+    height: 485px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    } */

@@ -1,0 +1,655 @@
+.main_div_hire_per_hour {
+  width: 100%;
+  background-color: #1d4480;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.heading_orange_perhour {
+  font-family: "Poppins", sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 66px;
+  text-align: left;
+  color: #ff9900;
+  animation: blink 2s infinite; /* Apply the blink animation */
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1; /* Fully visible */
+  }
+  50% {
+    opacity: 0; /* Invisible */
+  }
+  100% {
+    opacity: 1; /* Fully visible */
+  }
+}
+.heading_white_perhour {
+  font-family: "Poppins", sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 66px;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 20px;
+}
+.heading_white_perhour_small {
+  font-family: "Poppins", sans-serif;
+  font-size: 37px;
+  font-weight: 500;
+  line-height: 66px;
+  text-align: left;
+  margin-left: 10px;
+  color: #ffffff;
+  margin-top: -22px;
+}
+.click_here_btn_perhour {
+  width: 167.06px;
+  height: 54px;
+  border-radius: 30px 30px 30px 30px;
+  align-items: center;
+  background: #ff9900;
+  border: 1px solid #1d4480;
+  color: #1d4480;
+  margin-top: 8px;
+  margin-right: 25px;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: center;
+}
+
+.arrow_btw_perhour {
+  width: 100px;
+  height: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+}
+.input_name_perhour_form {
+  width: 100%;
+  height: 50px;
+  border-radius: 30px 30px 30px 30px;
+  border: 1px 0px 0px 0px;
+  background: #f7f4f4;
+  border: 1px solid #2323231f;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.96px;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  outline: none;
+  margin-top: 15px;
+}
+.btn_submit_form_perhour {
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  width: 152.17px;
+  height: 52px;
+  top: 253px;
+  left: 176px;
+  padding: 13px 29.84px 13px 31.33px;
+  border-radius: 30px 30px 30px 30px;
+  background: #ff9900;
+  outline: none;
+  border-color: none;
+  border-style: none;
+}
+
+.btn_close_form_perhour {
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  width: 142.17px;
+  height: 52px;
+  top: 253px;
+  left: 176px;
+  padding: 13px 29.84px 13px 31.33px;
+  border-radius: 30px 30px 30px 30px;
+  background: #565452;
+  outline: none;
+  border-color: none;
+  border-style: none;
+}
+
+@media only screen and (max-width: 1400px) {
+  .main_div_hire_per_hour {
+    width: 100%;
+    background-color: #1d4480;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .heading_orange_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .heading_white_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 15px;
+  }
+  .heading_white_perhour_small {
+    font-family: "Poppins", sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 66px;
+    text-align: left;
+    margin-left: 10px;
+    color: #ffffff;
+    margin-top: -20px;
+  }
+  .click_here_btn_perhour {
+    width: 167.06px;
+    height: 54px;
+    border-radius: 30px 30px 30px 30px;
+    align-items: center;
+    background: #ff9900;
+    border: 1px solid #1d4480;
+    color: #1d4480;
+    margin-top: 8px;
+    margin-right: 25px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+  }
+
+  .arrow_btw_perhour {
+    width: 100px;
+    height: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .main_div_hire_per_hour {
+    width: 100%;
+    background-color: #1d4480;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .heading_orange_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .heading_white_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  .heading_white_perhour_small {
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 66px;
+    text-align: left;
+    margin-left: 10px;
+    color: #ffffff;
+    margin-top: -20px;
+  }
+  .click_here_btn_perhour {
+    width: 167.06px;
+    height: 54px;
+    border-radius: 30px 30px 30px 30px;
+    align-items: center;
+    background: #ff9900;
+    border: 1px solid #1d4480;
+    color: #1d4480;
+    margin-top: 8px;
+    margin-right: 25px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+  }
+
+  .arrow_btw_perhour {
+    width: 100px;
+    height: 40px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 8px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .main_div_hire_per_hour {
+    width: 100%;
+    background-color: #1d4480;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .heading_orange_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .heading_white_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  .heading_white_perhour_small {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 66px;
+    text-align: left;
+    margin-left: 10px;
+    color: #ffffff;
+    margin-top: -18px;
+  }
+  .click_here_btn_perhour {
+    width: 137.06px;
+    height: 54px;
+    border-radius: 30px 30px 30px 30px;
+    align-items: center;
+    background: #ff9900;
+    border: 1px solid #1d4480;
+    color: #1d4480;
+    margin-top: 1px;
+    margin-right: 5px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+  }
+
+  .arrow_btw_perhour {
+    width: 70px;
+    height: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+  }
+
+  .input_name_perhour_form {
+    width: 100%;
+    height: 50px;
+    border-radius: 30px 30px 30px 30px;
+    border: 1px 0px 0px 0px;
+    background: #f7f4f4;
+    border: 1px solid #2323231f;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.96px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    outline: none;
+    margin-top: 15px;
+  }
+  .btn_submit_form_perhour {
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    width: 132.17px;
+    height: 52px;
+    top: 253px;
+    left: 176px;
+    padding: 13px 29.84px 13px 31.33px;
+    border-radius: 30px 30px 30px 30px;
+    background: #ff9900;
+    outline: none;
+    border-color: none;
+    border-style: none;
+  }
+
+  .btn_close_form_perhour {
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    width: 112.17px;
+    height: 52px;
+    top: 253px;
+    left: 176px;
+    padding: 13px 29.84px 13px 31.33px;
+    border-radius: 30px 30px 30px 30px;
+    background: #565452;
+    outline: none;
+    border-color: none;
+    border-style: none;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .main_div_hire_per_hour {
+    width: 100%;
+    background-color: #1d4480;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .heading_orange_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .heading_white_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 8px;
+  }
+  .heading_white_perhour_small {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 66px;
+    text-align: left;
+    margin-left: 5px;
+    color: #ffffff;
+    margin-top: -22px;
+  }
+  .click_here_btn_perhour {
+    width: 107.06px;
+    height: 40px;
+    border-radius: 30px 30px 30px 30px;
+    align-items: center;
+    background: #ff9900;
+    border: 1px solid #1d4480;
+    color: #1d4480;
+    margin-top: 0px;
+    margin-right: 2px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+  }
+
+  .arrow_btw_perhour {
+    width: 50px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .main_div_hire_per_hour {
+    width: 100%;
+    background-color: #1d4480;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .heading_orange_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .heading_white_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 8px;
+  }
+  .heading_white_perhour_small {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 66px;
+    text-align: left;
+    margin-left: 5px;
+    color: #ffffff;
+    margin-top: -22px;
+  }
+  .click_here_btn_perhour {
+    width: 107.06px;
+    height: 40px;
+    border-radius: 30px 30px 30px 30px;
+    align-items: center;
+    background: #ff9900;
+    border: 1px solid #1d4480;
+    color: #1d4480;
+    margin-top: 0px;
+    margin-right: 2px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+  }
+
+  .arrow_btw_perhour {
+    width: 50px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 470px) {
+  .main_div_hire_per_hour {
+    width: 100%;
+    background-color: #1d4480;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .heading_orange_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .heading_white_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 5px;
+  }
+  .heading_white_perhour_small {
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 66px;
+    text-align: left;
+    margin-left: 5px;
+    color: #ffffff;
+    margin-top: -24px;
+  }
+  .click_here_btn_perhour {
+    width: 90.06px;
+    height: 40px;
+    border-radius: 30px 30px 30px 30px;
+    align-items: center;
+    background: #ff9900;
+    border: 1px solid #1d4480;
+    color: #1d4480;
+    margin-top: 0px;
+    margin-right: 2px;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+  }
+
+  .arrow_btw_perhour {
+    width: 30px;
+    height: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 7px;
+  }
+
+  .input_name_perhour_form {
+    width: 100%;
+    height: 50px;
+    border-radius: 30px 30px 30px 30px;
+    border: 1px 0px 0px 0px;
+    background: #f7f4f4;
+    border: 1px solid #2323231f;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18.96px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    outline: none;
+    margin-top: 15px;
+  }
+  .btn_submit_form_perhour {
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    width: 112.17px;
+    height: 52px;
+    top: 253px;
+    left: 176px;
+    padding: 13px 29.84px 13px 31.33px;
+    border-radius: 30px 30px 30px 30px;
+    background: #ff9900;
+    outline: none;
+    border-color: none;
+    border-style: none;
+  }
+
+  .btn_close_form_perhour {
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    width: 102.17px;
+    height: 52px;
+    top: 253px;
+    left: 176px;
+    padding: 13px 29.84px 13px 31.33px;
+    border-radius: 30px 30px 30px 30px;
+    background: #565452;
+    outline: none;
+    border-color: none;
+    border-style: none;
+  }
+}
+
+@media only screen and (max-width: 370px) {
+  .main_div_hire_per_hour {
+    width: 100%;
+    background-color: #1d4480;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .heading_orange_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    color: #ff9900;
+  }
+  .heading_white_perhour {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 5px;
+  }
+  .heading_white_perhour_small {
+    font-family: "Poppins", sans-serif;
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 66px;
+    text-align: left;
+    margin-left: 5px;
+    color: #ffffff;
+    margin-top: -23px;
+  }
+  .click_here_btn_perhour {
+    width: 80.06px;
+    height: 30px;
+    border-radius: 30px 30px 30px 30px;
+    align-items: center;
+    background: #ff9900;
+    border: 1px solid #1d4480;
+    color: #1d4480;
+    margin-top: 0px;
+    margin-right: 2px;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+  }
+
+  .arrow_btw_perhour {
+    width: 20px;
+    height: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 9px;
+  }
+}
+
+/* modal style */
